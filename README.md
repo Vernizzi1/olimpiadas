@@ -1,4 +1,4 @@
-## Busca de Atletas: Encontre seus ídolos olímpicos!
+## Busca de Atletas: Encontre seus ídolos olímpicos! - Imersao Dev com Google Gemini
 
 **O que faz essa aplicação?**
 
